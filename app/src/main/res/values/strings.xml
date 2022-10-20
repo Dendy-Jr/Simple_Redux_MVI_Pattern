@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Redux(MVI) pattern</string>
+    <string name="show_numbers">Show numbers</string>
+    <string name="shuffle_numbers">Shuffle numbers</string>
+</resources>
